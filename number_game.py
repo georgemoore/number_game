@@ -1,3 +1,5 @@
+# Number Game by George Moore is licensed under Attribution-NonCommercial-ShareAlike 4.0 International
+
 #!/usr/bin/env python3
 # Standard library imports
 import random
